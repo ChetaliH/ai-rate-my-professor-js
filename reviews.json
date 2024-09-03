@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Excellent professor! His lectures are very clear and engaging. He makes complex topics easy to understand."
+      },
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Very knowledgeable and passionate about the subject. Sometimes goes a bit too fast, but overall great."
+      },
+      {
+        "professor": "Dr. Robert Brown",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Good professor, but his lectures can be a bit dry. Needs more interactive sessions."
+      },
+      {
+        "professor": "Dr. Lisa Davis",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "Not very organized and often seems unprepared. However, she is helpful during office hours."
+      },
+      {
+        "professor": "Dr. Michael Wilson",
+        "subject": "History",
+        "stars": 4,
+        "review": "Great storytelling skills and makes history interesting. However, his grading can be quite tough."
+      },
+      {
+        "professor": "Dr. Sarah Lee",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Absolutely amazing professor! She is very approachable and her enthusiasm for the subject is contagious."
+      },
+      {
+        "professor": "Dr. James Taylor",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "His lectures are detailed but can be monotonous. Needs to make the class more engaging."
+      },
+      {
+        "professor": "Dr. Jennifer Miller",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Very insightful lectures and provides great real-world examples. Could improve on clarity sometimes."
+      },
+      {
+        "professor": "Dr. David Anderson",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "One of the best professors I've had! His classes are thought-provoking and he encourages a lot of discussions."
+      },
+      {
+        "professor": "Dr. Karen Thomas",
+        "subject": "Philosophy",
+        "stars": 2,
+        "review": "Her lectures are difficult to follow and she doesn't provide enough examples. Needs better structure."
+      },
+      {
+        "professor": "Dr. Mark Lewis",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Passionate about the environment and sustainability. Assignments are challenging but fair."
+      },
+      {
+        "professor": "Dr. Olivia Harris",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "She knows her stuff, but her lectures can sometimes feel unstructured and hard to follow."
+      },
+      {
+        "professor": "Dr. Christopher Evans",
+        "subject": "Engineering",
+        "stars": 5,
+        "review": "Brilliant professor with a deep understanding of engineering principles. His labs are particularly engaging."
+      },
+      {
+        "professor": "Dr. Natalie Martinez",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Her passion for art is evident in every lecture. The class is very enjoyable and informative."
+      },
+      {
+        "professor": "Dr. Brian Thompson",
+        "subject": "Statistics",
+        "stars": 2,
+        "review": "Not very engaging and his exams are tough. Would benefit from more practical examples."
+      },
+      {
+        "professor": "Dr. Samantha Clark",
+        "subject": "English Literature",
+        "stars": 5,
+        "review": "Fantastic professor who makes literature come alive. Her classes are always full of energy."
+      },
+      {
+        "professor": "Dr. Ethan Walker",
+        "subject": "Business Administration",
+        "stars": 3,
+        "review": "Solid knowledge of business concepts but could use more real-world case studies in his teaching."
+      },
+      {
+        "professor": "Dr. Megan White",
+        "subject": "Linguistics",
+        "stars": 4,
+        "review": "A well-organized course with detailed explanations. Sometimes the pace can be a bit fast, though."
+      },
+      {
+        "professor": "Dr. Anthony Gonzalez",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Incredibly talented and knows how to teach music in an understandable way. Highly recommended!"
+      },
+      {
+        "professor": "Dr. Elizabeth Hall",
+        "subject": "Astronomy",
+        "stars": 3,
+        "review": "Interesting lectures, but the material can be difficult to grasp without a strong background in math."
+      }
+    ]
+  }
+  
